@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640">
+  <defs>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c084fc"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+    <pattern id="dots" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="20" cy="20" r="1.5" fill="#9ca3af" opacity="0.2"/>
+    </pattern>
+  </defs>
+  
+        <rect width="1280" height="640" fill="#1a0f2e"/>
+        <polygon points="0,0 400,0 0,400" fill="#c084fc" opacity="0.06"/>
+        <polygon points="1280,640 880,640 1280,240" fill="#f59e0b" opacity="0.08"/>
+        <line x1="0" y1="520" x2="1280" y2="520" stroke="#27272a" stroke-width="1" opacity="0.3"/>
+        <text x="80" y="300" fill="#ffffff" font-family="monospace, sans-serif" font-size="64" font-weight="900" text-anchor="start">Aurion Hud</text>
+<text x="80" y="370" fill="#ffffff" font-family="monospace, sans-serif" font-size="64" font-weight="900" text-anchor="start">Combat Journal</text>
+
+        <text x="80" y="460" fill="#9ca3af" font-family="monospace, sans-serif" font-size="22" text-anchor="start">Customizable HUD editor and combat journal for AION 2.</text>
+        <rect x="80" y="490" width="80" height="4" rx="2" fill="#c084fc"/>
+        <g transform="translate(80, 540)">
+    <g font-family="monospace, sans-serif" font-size="14" fill="#ffffff" font-weight="600">
+      <rect x="0" y="0" width="100" height="40" rx="20" fill="#c084fc" fill-opacity="0.15" stroke="#c084fc" stroke-width="1"/>
+      <text x="50" y="25" text-anchor="middle">266 stars</text>
+      <rect x="115" y="0" width="150" height="40" rx="20" fill="#f59e0b" fill-opacity="0.15" stroke="#f59e0b" stroke-width="1"/>
+      <text x="190" y="25" text-anchor="middle">48K+ downloads</text>
+      <rect x="280" y="0" width="100" height="40" rx="20" fill="#1a0f2e" stroke="#27272a" stroke-width="1"/>
+      <text x="330" y="25" text-anchor="middle">Windows</text>
+    </g>
+    </g>
+        
+</svg>
